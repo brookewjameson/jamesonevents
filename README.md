@@ -1,2 +1,4 @@
 # jamesonevents
-Jameson Events' day of wedding coordination website
+Jameson Events
+
+Day of wedding coordination website
